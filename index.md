@@ -15,6 +15,8 @@ Welcome to the OWASP
 
 The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month for dinner, a great security-related speaker and great networking. We frequently go out for post-talk drinks to socialize and understand what security is really about. Join the movement today!
 
+You can sign up to our Meetup site to get informed about our meetings: https://www.meetup.com/OWASP-Los-Angeles/
+
 ## Participation
 
 The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
@@ -26,6 +28,11 @@ Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
 ![meetup](assets/images/meetup-logo-160x65.png)
 
 We are on Meetup. For the list of latest events please join our community https://www.meetup.com/OWASP-Los-Angeles
+
+## Sponsorship
+
+Consider sponsoring an OWASP Los Angeles monthly dinner meeting. You can meet upwards of 80-90 potential new clients.
+https://www.eventbrite.com/e/owasp-los-angeles-chapter-dinner-meeting-sponsor-tickets-30572600471
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
